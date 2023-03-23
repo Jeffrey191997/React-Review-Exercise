@@ -1,0 +1,25 @@
+.favorite-site{
+  text-align: center;
+}
+
+.header {
+  margin: 20px;
+}
+
+.favorite-list {
+  display: inline-block;
+  text-align: left;
+  list-style-type: none;
+  margin-right: 30px;
+}
+
+
+
+.link {
+  color: lightgreen;
+}
+
+.link:hover{
+  color: red;
+}
+

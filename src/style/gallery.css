@@ -1,0 +1,21 @@
+.gallery {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.gallery-header {
+  text-align: center;
+  margin: 20px;
+}
+
+.gallery-list {
+  display: inline-block;
+  text-align: left;
+  list-style-type: none;
+  margin-right: 30px;
+}
+
+.gallery-img:hover {
+  transform: scale(1.2);
+  transition: ease-out 1s;
+}
